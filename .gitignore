@@ -1,0 +1,8 @@
+# Ignore Python virtual environment
+rag_env/
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
